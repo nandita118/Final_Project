@@ -1,6 +1,6 @@
 let url = 'https://newsapi.org/v2/everything?' + //variable for url
           'q=Apple&' +
-          'from=2018-11-20&' +
+          'from=2019-09-20&' +
           'sortBy=popularity&' +
           'apiKey=357931bc86ea40858f9d6da35d8c9351';
 let data1; //cnn variable
